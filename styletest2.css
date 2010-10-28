@@ -1,0 +1,10 @@
+body {
+	background-color:silver;
+	background-image:url("http://localhost/fj/wp-content/themes/falkojanak.com/ui/img/falkojanak_logo.png");
+	background-repeat:no-repeat;
+	background-position: 50% 25%;
+}
+h3 {
+	color:#blue;
+	background-color:#white;
+}
