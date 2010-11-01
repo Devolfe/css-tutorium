@@ -1,0 +1,31 @@
+p {
+	color:black;
+	text-align:center;
+}
+p.boese {
+	color:red;
+}
+span.tugend {
+	color:red;
+}
+#spd {
+	background:red;
+	color:white;
+	position:absolute;
+	top:200px;
+	left:300px;
+	width:200px;
+	border-style:inset;
+	border-color:black;
+	
+}
+#cdu {
+	background:black;
+	color:white;
+	position:absolute;
+	top:200px;
+	left:775px;
+	width:200px;
+	border-style:dashed;
+	border-color:red;
+}

@@ -1,0 +1,17 @@
+p {
+	color:black;
+}
+p.boese {
+	color:red;
+}
+p.gut {
+	color:blue;
+}
+#H1 {
+	color:#C71585;
+	text-decoration:underline;
+}
+#H2 {
+	color:#FFA500;
+	text-decoration:underline;
+}

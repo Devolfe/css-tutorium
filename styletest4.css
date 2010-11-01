@@ -1,0 +1,10 @@
+body {
+	background-color:silver;
+	background-image:url("http://www.schlaubehunde.de/images/LOGO003.png");
+	background-repeat:no-repeat;
+	background-position: 75% 75%;
+}
+h3 {
+	color:#blue;
+	background-color:#white;
+}
